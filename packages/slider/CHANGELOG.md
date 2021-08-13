@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.9
+
+### Patch Changes
+
+- [`ed8301181`](https://github.com/chakra-ui/chakra-ui/commit/ed830118114231624eb1538f183134a5741a16f7)
+  [#4564](https://github.com/chakra-ui/chakra-ui/pull/4564) Thanks
+  [@trabuchhobbes](https://github.com/trabuchhobbes)! - Fix issue where slider
+  thumb gets focus when onChangeEnd changes.
+
 ## 1.2.8
 
 ### Patch Changes
